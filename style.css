@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.BackgroundHome {
+    width:1300px; 
+    height:200px; 
+    line-height: 200px;
+    background-image: url("images/grey.jpg");
+    text-align:center;
+    font-size: 64px;
+    font-family: Helvetica;
+    
+}
+.CollectionBackground {
+    width:1300px; 
+    height:200px; 
+    line-height: 200px;
+    background-image: url("images/grey.jpg");
+    text-align:center;
+    font-size: 64px;
+    font-family: Helvetica;
+}
+.Text-Caption-Img1 {
+  font-weight: bold;
+}
+
+
+#SpringCleaningImageBox{
+    background-color: red;
+}
+.SpringCleaningImage{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   background-image: url("images/DarkBlue.png");
+}
+
+
+.About{
+    width:1300px;
+    height: 125px;
+    line-height: 125px;
+    background-color: blue;
+    text-align:center;
+    font-size: 46px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white
+    
+}
+.CaptionAbout{
+    
+    width: 1250px;
+    font-family: Courier New;
+    font-size: 23px;
+    text-align: center;
+}
+.username {
+    font-weight: bold;
+    font-size: large;
+}
+.nav-area {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-area li{
+    display: inline-block;
+}
+.nav-area li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: poppins;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.nav-area li a:hover {
+	background: #fff;
+	color: #333;
+}
